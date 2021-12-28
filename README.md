@@ -1,5 +1,4 @@
 # task-management-app
-Pre-Assignment for Integrify Academy
 
 Task Management App that lets the user add new tasks, delete them all or individually.
 
